@@ -1,13 +1,11 @@
+
 {
-  "name": "MillwoodWynona/fuel-core",
+  "name": "@millwoodwynona/fuel-core",
   "version": "1.0.0",
-  "description": "Quest for tea.xyz",
+  "description": "fuel core",
   "main": "index.js",
-  "author": "millwoodwynona",
+  "author": "@millwoodwynona",
   "repository": "https://github.com/MillwoodWynona/fuel-core.git",
   "license": "ISC",
-  "dependencies": {
-    "MillwoodWynona/fuel-core": "^2.0.0",
-    "express": "^4.18.3"
-  }
+  
 }
