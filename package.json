@@ -1,9 +1,12 @@
 {
-  "name": "@millwoodwynona/tea-xyz-quest",
-  "version": "3.0.0",
+  "name": "@millwoodwynona/tea",
+  "version": "2.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
   "author": "@millwoodwynona",
   "repository": "https://github.com/MillwoodWynona/fuel-core.git",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@kevin0608/tea-xyz-quest": "^2.0.0"
+  }
 }
